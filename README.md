@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diongultom
 - 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning Vue JS and React JS
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on everyone where needed front end web developer
 - 📫 How to reach me can you contact me on whatsapp +62 822 6796 8930 or send a message to dionmarusahagultom@gmail.com
 
